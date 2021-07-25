@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Danny, asoftware engineer.
+- 👋 Hi, I’m Danny, a software engineer.
 - 👀 I’m interested in backend development as well as infrastructure.
 - 🌱 I’m currently honing my skills in Javascript, React, unit testing, and more.
 - 📫 How to reach me about exciting opportunities - nguyendanny010@gmail.com
