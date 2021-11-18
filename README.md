@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danny, a software engineer.
 - 👀 I’m interested in backend development as well as infrastructure.
-- 🌱 I’m currently honing my skills in Javascript, React, unit testing, and more.
+- 🌱 I’m currently honing my skills in Nodejs, Redis Caching, and backend development.
 - 📫 How to reach me about exciting opportunities - nguyendanny010@gmail.com
 
 <!---
