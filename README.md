@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danny, a software engineer.
 - 👀 I’m interested in backend development as well as infrastructure.
-- 🌱 My strongest skills are in Node.js, MongoDB, Docker, and Kubernetes.
+- 🌱 My strongest languages are Javascript (Node.js), Java.
 - 📫 How to reach me about exciting opportunities - nguyendanny010@gmail.com
 
 <!---
